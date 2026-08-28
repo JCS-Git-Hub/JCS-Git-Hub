@@ -1,6 +1,6 @@
 # 🗿 Hi, I'm José
 
-I'm an **EN > ES Translator** currently learning full-stack web development. Computer Science hobbyist who enjoys learning how the field works and exploring its many areas. Avid fan of video-games, whether be retro or modern from plenty of game genres.
+I'm an **EN > ES Translator** currently learning full-stack web development. Computer Science enthusiast who enjoys learning how the field works and exploring its many aspects. Avid fan of video-games, from retro classics to modern games across a wide range of genres.
 
 ## 🧰 Current Stack
 
@@ -22,7 +22,7 @@ I'm an **EN > ES Translator** currently learning full-stack web development. Com
 ![CAT-tools_SDL-Passolo](https://img.shields.io/badge/CAT_Tools-SDL_Passolo-%23c41e20?labelColor=%2300a89f)
 ![CAT-tools_Aegisub](https://img.shields.io/badge/CAT_Tools-Aegisub-%23a50808?labelColor=%2300a89f)
 
-![Learning_Bash](https://img.shields.io/badge/Learning-Bash-%233e474a)
+![Learning_Bash](https://img.shields.io/badge/Learning-Bash-%234EAA25?logo=gnubash)
 ![Learning_Git](https://img.shields.io/badge/Learning-Git-%23f05033?logo=git)
 ![Learning_GitHub](https://img.shields.io/badge/Learning-GitHub-%23000000?logo=github)
 ![Learning_VSCode](https://img.shields.io/badge/Learning-VSCode-%2323a8f2)
